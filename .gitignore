@@ -1,0 +1,114 @@
+# ================================
+# Common Files and Directories
+# ================================
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.rar
+# *.zip
+# *.tar.gz
+
+# Virtual machine crash logs
+hs_err_pid*
+replay_pid*
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# ================================
+# Gradle
+# ================================
+
+# Gradle build directories
+.gradle/
+**/build/
+
+# Avoid ignoring specific build directories
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Gradle GUI config
+gradle-app.setting
+
+# Gradle cache
+.gradletasknamecache
+
+# Eclipse Gradle plugin generated files
+.project
+.classpath
+
+# ================================
+# Spring Tool Suite (STS)
+# ================================
+
+# STS specific files
+.apt_generated
+.factorypath
+.settings
+.springBeans
+.sts4-cache
+
+# STS build directories
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+# ================================
+# IntelliJ IDEA
+# ================================
+
+# IntelliJ IDEA project files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# IntelliJ IDEA output directories
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# ================================
+# NetBeans
+# ================================
+
+# NetBeans specific directories
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ================================
+# Visual Studio Code
+# ================================
+
+# VS Code specific directory
+.vscode/
+
+# ================================
+# Operating System Files
+# ================================
+
+# Windows specific file
+desktop.ini
+
+# ================================
+# Miscellaneous
+# ================================
+
+# Help file
+HELP.md
